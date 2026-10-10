@@ -1,0 +1,26 @@
+name: SectorsPurpur
+version: 1.0.0
+main: pl.twojnick.sectors.purpur.PurpurPlugin
+api-version: '1.21'
+
+commands:
+  spawn:
+    description: Teleportacja na spawn
+  afk:
+    description: Teleportacja do strefy AFK
+  sektor:
+    description: Komendy administracyjne
+  kit:
+    description: Odbieranie kitów
+  rank:
+    description: Zarządzanie rangami
+  g:
+    description: Komendy gildii
+
+permissions:
+  sectors.admin.tp:
+    description: Teleportacja graczy między sektorami
+    default: op
+  sectors.admin.rank:
+    description: Ustawianie rang
+    default: op

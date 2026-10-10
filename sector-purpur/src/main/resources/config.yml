@@ -1,0 +1,12 @@
+# Konfiguracja Sectors Purpur
+dbHost: "127.0.0.1"
+dbPort: 3306
+dbUser: "root"
+dbPassword: "twoje_haslo_do_mysql"
+dbName: "sectors"
+
+redisHost: "127.0.0.1"
+redisPort: 6379
+redisPassword: ""
+
+natsUrl: "nats://127.0.0.1:4222"
