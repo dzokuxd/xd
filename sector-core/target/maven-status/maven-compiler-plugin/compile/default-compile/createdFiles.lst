@@ -1,0 +1,11 @@
+pl\twojnick\sectors\core\database\Rank.class
+pl\twojnick\sectors\core\config\SectorConfig$SectorDefinition.class
+pl\twojnick\sectors\core\config\SectorConfig$SectorType.class
+pl\twojnick\sectors\core\messaging\MessageBroker.class
+pl\twojnick\sectors\core\database\PlayerRepository.class
+pl\twojnick\sectors\core\database\PlayerData.class
+pl\twojnick\sectors\core\api\PermissionRegistry.class
+pl\twojnick\sectors\core\logic\SectorManager.class
+pl\twojnick\sectors\core\config\SectorConfig.class
+pl\twojnick\sectors\core\database\DatabaseManager.class
+pl\twojnick\sectors\core\status\SectorStatusTracker.class
