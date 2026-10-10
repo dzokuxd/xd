@@ -1,0 +1,14 @@
+pl\twojnick\sectors\velocity\VelocityRedisNatsBrokerImpl.class
+pl\twojnick\sectors\velocity\VelocityChatHandler.class
+pl\twojnick\sectors\velocity\VelocityHeartbeatHandler.class
+pl\twojnick\sectors\velocity\VelocityRedisNatsBrokerImpl$1.class
+pl\twojnick\sectors\velocity\VelocityTransferHandler.class
+pl\twojnick\sectors\velocity\api\command\CommandContext.class
+pl\twojnick\sectors\velocity\VelocityPluginMessageListener.class
+pl\twojnick\sectors\velocity\VelocityChatHandler$2.class
+pl\twojnick\sectors\velocity\api\command\SubCommand.class
+pl\twojnick\sectors\velocity\api\command\SectorCommand.class
+pl\twojnick\sectors\velocity\VelocityChatHandler$1.class
+pl\twojnick\sectors\velocity\VelocityLoginListener.class
+pl\twojnick\sectors\velocity\VelocityPlugin.class
+pl\twojnick\sectors\velocity\VelocityQueueManager.class

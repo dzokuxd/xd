@@ -1,0 +1,8 @@
+{
+    "id": "sectors-velocity",
+    "name": "SectorsVelocity",
+    "version": "1.0.0",
+    "description": "Sectors system for Minecraft",
+    "authors": ["TwojNick"],
+    "main": "pl.twojnick.sectors.velocity.VelocityPlugin"
+}
